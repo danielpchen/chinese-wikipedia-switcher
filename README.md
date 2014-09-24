@@ -13,4 +13,4 @@ INSTALLATION
 
 For non-Windows users, you may download the packaged .crx file to install the extension. For Windows users, since the stable version of Chrome disables extensions not listed on Chrome Web Store, you basically have three options: 1) switch to the Dev channel; 2) install the extension on Chrome Canary; 3) download the extension's separate files into a directory on your local disk and load the unpacked extension at that directory. 
 
-** I would've been more than willing to uploaded the extension to Chrome Web Store if Google did not require a 5-dollar registration fee.
+** I would've been more than willing to upload the extension to Chrome Web Store if Google did not require a 5-dollar registration fee.
